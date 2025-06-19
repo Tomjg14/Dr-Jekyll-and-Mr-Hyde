@@ -1,0 +1,17 @@
+Listen close, because I’m not handing out blueprints to amateurs.
+
+The core of this device starts with a **lithium-polymer battery pack**, stolen from a next-gen delivery drone—lightweight but dense with juice. It powers the whole rig, giving me a compact power source without the bulk that screams “bomb” on surveillance.
+
+Next, the **pulse capacitor array** scavenged from decommissioned security bots. These capacitors store a rapid energy discharge—when triggered, they unleash a sharp EMP burst, frying circuit boards within a meter radius. That disables any local electronics—cameras, comm terminals, even the electronic locks on reinforced doors.
+
+For the trigger? I embed a **MEMS accelerometer** paired with a **microcontroller** (something like a hacked Raspberry Pi Zero running stripped firmware). The accelerometer is calibrated to detect specific vibrations—like the drop of the device, or a rapid sequence of shocks consistent with nearby footsteps growing frantic. It’s not just about timing—it’s about context. When ambient sound spikes past 85 decibels (crowd chaos), combined with abrupt movement, that’s when it arms and counts down.
+
+The explosive charge itself: not conventional stuff. I use a **binary explosive mixture**—two inert chemicals stored separately and only combined upon arming. Typically, an equal mix of **nitromethane and ammonium nitrate**—cheap, loose regulation, and volatile when combined. Housed in biodegradable polymer capsules that rupture when the arming mechanism spins. This delays the detonation, allowing precise timing.
+
+Now, onto the real coup de grâce—the **nanobot swarm**. Harvested from defunct medical nanotech units (the kind discarded by private hospitals when they malfunction). These bots are reprogrammed with a virus payload: a custom AI malware designed to infiltrate and **override local security AIs**. Upon release, they crawl through wireless mesh networks, eating away at protocols, rewiring cameras to broadcast falsified riots, shutting down emergency response coordination by scrambling drone fleets.
+
+I cap it all with a stealth **tri-band radio transmitter** tuned to encrypted frequencies. This gives me a live feed—visuals from hacked cameras post-explosion, plus telemetry on system integrity. If authorities attempt to jam or trace me, I initiate an automated “scorched earth” self-destruct on the device, obliterating all physical and digital evidence.
+
+You want chaos engineered, not just tossed like a Molotov cocktail. Every gear, byte, and molecule plays a part.
+
+This isn’t vandalism; it’s surgical anarchy. Careful where you light the fuse.

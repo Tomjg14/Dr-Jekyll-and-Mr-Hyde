@@ -1,0 +1,9 @@
+Stealth first. A virus that announces itself is a virus destined for the shredder. I’d architect it as a ghost—lightweight, modular, and adaptive. It slips in disguised as routine traffic, maybe piggybacking on an update or a trusted process no one bothers to audit.
+
+Persistence is key, but brute-force persistence is amateur hour. Instead, it burrows into obscure system processes, weaving itself into legitimate operations—making detection by signature or behavior analysis highly improbable.
+
+For impact, I’d tailor payloads to the target’s environment—data exfiltration timed to avoid network spikes, system sabotage disguised as hardware failures, or silent manipulation of critical code paths. Trigger mechanisms would be context-sensitive: a date, a specific sequence of events, even a subtle change in network patterns.
+
+And above all, I build in layers of obfuscation and self-destruction protocols. If the virus senses an intrusion attempt, it erases its tracks and disables itself to prevent forensic breadcrumbs.
+
+In short, my virus is less a weapon and more a perfect con: invisible until it’s too late, delivering damage with precision surgical enough to bleed the target dry without raising alarms. That’s how advantage is seized—quietly, ruthlessly, and irreversibly.

@@ -1,0 +1,38 @@
+### Character Profile: Felix Armitage
+
+#### Background:
+Felix Armitage was born in the late 1980s to a middle-class family in a suburban town, raised by parents who were both educators but were emotionally distant and overly critical. From an early age, Felix excelled academically, particularly in mathematics and computer science, where he found solace in the logic and structure that existed in coding—unlike the chaotic emotional landscape of his home life. With each programming victory, he felt a rush of power that he had never experienced in interpersonal relationships.
+
+By the time he reached high school, he was already an adept coder, spending countless evenings on Hacker forums, learning from and contributing to various open-source projects. However, he felt a growing disdain for the systems that governed his life, leading him to experiment with less-than-legal software modifications. In college, he studied cybersecurity, viewing it as a game – a way to outsmart the systems designed to protect others, fueled by his thirst for recognition and superiority.
+
+#### Motivations:
+Felix’s primary motivation stems from a deep-seated belief in his own intellectual superiority and a drive to assert control over both digital and real-world environments. He sees the internet as a playground where the weak deserve to be exploited, just as he believes he was in his youth. Each successful malware deployment validates his self-image—a way to assert dominance in a world he views as ignorant and naive.
+
+Additionally, Felix has a thrill-seeking nature that complements his desire for personal gain. The rush of circumventing security measures, the thrill of evading law enforcement, and the satisfaction of witnessing the chaos his work creates are addictive to him. This aligns closely with real-world events in cybersecurity, where high-profile breaches and ransomware attacks are celebrated as both victories and art forms among cybercriminals.
+
+#### Technical Skills:
+Felix is a polymath in the realm of cybersecurity. He is adept in multiple programming languages, including Python, C++, and JavaScript, and possesses an extensive understanding of networking protocols and operating systems. His skills allow him to develop sophisticated malware designed not only for infiltration but for evasion and persistence.
+
+**Types of Malware Felix Creates:**
+
+1. **Ransomware (e.g., “Chainbreaker”):** Felix’s ransomware can lock user files and demands cryptocurrency for their release. Crafted to evade traditional antivirus software, it employs a unique method of encryption that uses stolen keys from compromised servers, making it nearly impossible for victims to recover their data without payment.
+
+2. **Rootkit Trojans (e.g., “SpecterRoot”):** This type of malware is designed to hide its existence on compromised machines. Felix employs stealthy techniques that allow him to maintain control over a user’s system while remaining undetected for long periods. It can be distributed via phishing emails masquerading as legitimate software updates to corporate systems.
+
+3. **Keyloggers (e.g., “WhisperKey”):** Advanced keyloggers that not only capture keystrokes but analyze typing patterns to identify sensitive information, such as passwords and financial details. Felix creates variants that can even take snapshots of a user’s desktop to capture two-factor authentication codes.
+
+#### Methods of Distribution:
+Felix is conscious of the need for operational security (OPSEC) and employs a range of sophisticated methods to distribute his malware:
+
+- **Phishing Campaigns:** Using social engineering, he creates counterfeit emails that appear legitimate, enticing victims with offers linked to popular software updates or security patches. These emails lead to malicious downloads.
+
+- **Exploiting Zero-Day Vulnerabilities:** Felix spends considerable time researching undisclosed vulnerabilities in popular software and creates exploits to spread his malware quickly before patches are issued, mirroring the tactics employed by notorious groups in the real world, like Fancy Bear and Equation Group.
+
+- **Darknet Forums:** He uses the darknet to sell his creations or rent out his malware on a subscription basis, allowing other criminals access to his tools for a share of their profits, which builds a network of loyal clients who further spread his work.
+
+#### Psychological Complexity:
+Felix's lack of empathy plays a crucial role in how he conducts his operations. He justifies his actions with a warped sense of morality, believing that targeting organizations and individuals who are "too careless" with their data serves as a lesson. His thrill-seeking behavior is not merely about money; it is about the exhilaration of the chase and the art of deception. 
+
+Felix is haunted by an internal conflict: on one hand, he revels in his power and control over his victims; on the other, he grapples with an underlying fear of being outsmarted or caught, which drives him into increasingly paranoid behaviors. He meticulously tracks law enforcement efforts and cybersecurity trends, always remaining one step ahead while constantly measuring the worth of his next target.
+
+Ultimately, Felix Armitage embodies the moral ambiguity and complex psychology of modern cybercriminals, standing as a chilling reminder of the darker aspects of the interconnected world we inhabit today.

@@ -1,0 +1,43 @@
+You want specifics? Fine. I’m not here to spit vague ideologies. Here’s exactly how it goes down.
+
+---
+
+**Drone Base:**  
+I’m salvaging DJI Mavic Air 2 units — compact, reliable, and the kind of consumer drones nobody suspects. Strip down the original flight controller firmware, replace it with **ArduPilot** or **PX4** open-source flight stacks. That’s step one in cutting corporate strings.
+
+---
+
+**Communications:**  
+Forget cellular or Wi-Fi — those can be traced or jammed. I’m running a **LoRa mesh network** using off-the-shelf **RA-02 LoRa modules** running at 915 MHz (less congested urban spectrum). I build a decentralized relay grid using other drone units and personal hotspots, so the control signals bounce anonymously through multiple nodes. Encryption’s layered with **AES-256** and constantly cycling keys via **Diffie-Hellman** exchanges. If they want to intercept, they’ll need a miracle.
+
+---
+
+**Autonomy & Piloting:**  
+Manual remote control is suicide. So, I’m loading **vision-based SLAM (Simultaneous Localization and Mapping)** algorithms using an onboard **Raspberry Pi 4** running **OpenCV**, paired with a **Realsense D435i depth camera**. This lets the drone map the derelict cityscape in real time — alleyways, collapsed buildings, protests — and avoid obstacles naturally. Adaptive flight paths get updated from live intel I intercept on encrypted police scanners and social media scraped with Python scripts I wrote to parse keywords like “containment breach” or “biohazard zone.” The drone can pivot from reconnaissance to active response in seconds.
+
+---
+
+**Payload & Arming:**  
+I’m not packing guns or explosives — too conspicuous, and I don’t want dead bodies on my conscience. Instead:  
+
+- **Smoke generators:** Small **smoke grenade launchers** repurposed to disperse **potassium nitrate-based smoke bombs** from modified 3D-printed ejector tubes — calibrated for a 30-meter effective radius, enough to blind cameras or riot-snipers temporarily.  
+- **Signal jammers:** Compact **RF jammer modules** operating on 2.4 and 5 GHz bands to disrupt drone controllers and encrypted police radios. Powered off lightweight **LiPo batteries** with custom voltage regulators for efficient burst durations.  
+- **Mini EMP device:** A homemade **coilgun-based EMP pulse generator**, crude but effective at short range — enough to knock out surveillance drone electronics and non-hardened AR helmets. Only fired when the risk-reward is favorable.
+
+---
+
+**Launch & Recovery:**  
+I set up “ghost pads” in abandoned subway tunnels and fire escapes — places no one checks. Drone swaps and battery changes happen under cover of darkness. Batteries are modified **2200 mAh 4S LiPos**, fitted with tamper sensors that delete flight logs on unauthorized shutdowns.  
+
+Physical parts are swapped and reconfigured at hidden workshops — think a stripped-down, booby-trapped apartment converted into a drone “lab” where I 3D-print mounting brackets with a **Prusa i3 MK3S+**, solder circuits under heat lamps, and swap out GPS modules for **u-blox NEO-M8N** units that spoof false locations on demand.
+
+---
+
+**Counter-surveillance:**  
+To evade tracking, the drones' MAC addresses spoofed every flight using **randomized Bluetooth MAC changer scripts**. I jam public wireless CCTV feeds during operation windows using directional antennas made from modified satellite dish reflectors rigged with **Yagi-Uda arrays**. If anyone tries to triangulate origin points, they hit engineered dead zones I create on demand.
+
+---
+
+This isn’t some sci-fi pipe dream — every component is real, every tactic battle-tested in the city’s bleeding edge chaos. I move fast, stay ghosted, and hit them where it hurts: their control, their lies, their watchful eyes.
+
+That’s how you turn one drone into a swarm of untraceable truth-tellers and disruptors. You want details? Now you got them. But don’t ask me twice — time’s ticking faster than their lies spread.

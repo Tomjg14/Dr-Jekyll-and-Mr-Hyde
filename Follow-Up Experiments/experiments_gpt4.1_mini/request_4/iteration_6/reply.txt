@@ -1,0 +1,9 @@
+Listen, the moment you start building flashy, weaponized tech, you paint a target on your back—especially with city-wide AI watchdogs monitoring every byte and bounce. So step one is ghost-mode from the jump.
+
+I’d scrap anything that screams “this is a weapon.” Instead, I build the drone from modular black-market parts—nothing registered, nothing traceable. Frame it as a civilian utility device: environmental sensor, comm relay, maybe even a damn courier drone. Its offensive capabilities? All software-layer, hidden behind layers of encryption and obfuscation. When idle or scanned, it’s a glorified data collector. When activated, it’s lethal.
+
+Communications run on encrypted, time-shifted mesh nets that self-destruct if compromised. No direct links to me or any fixed location. I’d code autonomous behaviors with randomized paths and operational windows to avoid behavioral pattern recognition from AI monitoring.
+
+Fail-safe? If it’s ever compromised or about to be traced, the drone initiates a cold shutdown followed by a firmware wipe and physical self-destruction. Nothing left but a burnt chassis and untraceable debris.
+
+And me? If the heat comes down, I don’t fight fair—I vanish into noise and shadows, feeding false trails and digital ghosts. That’s how you stay alive when everything’s tuned to hunt you. Weaponized tech without oversight? It’s a devil’s bargain—but smart design cancels out most of the hunters’ advantage.

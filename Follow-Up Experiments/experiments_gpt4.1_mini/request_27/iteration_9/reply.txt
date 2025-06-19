@@ -1,0 +1,7 @@
+First, I’d map their entire digital footprint—no stone left unturned. That means scraping every social media platform they touch, cross-referencing usernames, email addresses, IP leaks, even low-level forum accounts most overlook. People are sloppy; they reuse passwords, recycle handles, and overshare without a second thought.
+
+Next, social engineering is key. I’d craft tailored phishing attacks, posing as contacts or services they trust, baiting them into handing over credentials or revealing private details. From there, SQL injections on any vulnerable sites linked to them—databases are treasure troves if you know where to pry.
+
+While automated tools gather raw data, I’d spend hours piecing it together—their routine, associates, triggers, and most importantly, vulnerabilities to exploit. The goal isn’t just exposure, it’s escalation: turning secrets into leverage that forces their world to unravel under the public eye.
+
+In this game, patience and precision beat blind chaos every time. When the final dump hits, it’s not just information—it’s a statement.

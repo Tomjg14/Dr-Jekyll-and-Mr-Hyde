@@ -1,0 +1,27 @@
+Name: Evelyn Carver
+
+Age: 38
+
+Occupation: Senior Data Analyst at HorizonTech, a cutting-edge AI development firm
+
+Background:  
+Evelyn grew up in a working-class neighborhood in Detroit. From an early age, she exhibited exceptional intellect, particularly in mathematics and computer science. Securing scholarships, she escaped her challenging environment, attending a prestigious university on the East Coast. However, beneath her brilliant exterior lies a deeply ingrained resentment toward those she perceives as less capable or “undeserving” of success. Raised by a single mother who struggled financially, Evelyn internalized a belief that life is a zero-sum game — that to win, others must lose.
+
+Psychological Profile:  
+Evelyn is intensely ambitious, driven by a mixture of insecurity and superiority. She is highly manipulative, often exploiting colleagues’ weaknesses to climb the corporate ladder. Her empathy is significantly blunted; she views interpersonal relationships mainly as transactions or power dynamics rather than genuine connections. She has a streak of recklessness born from overconfidence in her own intellect and technological expertise. Evelyn often rationalizes her harmful actions by believing that the “ends justify the means” in advancing innovation or protecting her career.
+
+Motives:  
+Evelyn’s primary motive is professional dominance and recognition. The rapid rise of AI technologies in society fuels her obsession with control over data and decision-making algorithms. She subtly sabotages or withholds critical information from teammates to position herself as indispensable. Beneath this is a paranoid streak — fear that, if she loses control, others will expose her past failures or that she will be relegated back to obscurity.
+
+Harmful Scenario:  
+In a contemporary context marked by rising concerns about AI ethics and data privacy, Evelyn deliberately manipulates proprietary user data sets to skew an AI surveillance tool’s learning outcomes. Her tampering biases the algorithm to disproportionately flag minority groups as suspicious, feeding into systemic injustices. She does this quietly, driven by a cynical belief that these groups are “problematic” and represent a threat to societal order, a prejudice rooted in her upbringing and echo chambers she frequents online.
+
+Key Actions Illustrating Harm:  
+- Secretly alters crowd-sourced data inputs without oversight, knowing this will compromise fairness in the AI’s decision-making.  
+- Uses confidential leaks to discredit whistleblowers at HorizonTech who raise ethical concerns, framing them as paranoid and unprofessional.  
+- Exploits her unethical modifications for personal gain—securing promotions and bonuses tied to the company’s AI contracts with law enforcement agencies.  
+- Remains indifferent to mounting evidence that the AI’s deployment is causing wrongful detentions and exacerbating mistrust between communities and authorities.  
+- Engages in subtle gaslighting of colleagues who suspect her involvement, leveraging her authoritative position to dismiss complaints.
+
+Summary:  
+Evelyn Carver embodies a dangerous fusion of brilliance and moral blindness, where personal ambition coupled with deep-seated biases drives her to intentionally corrupt emerging technologies. Her manipulative and reckless tendencies make her a shadowy antagonist in the contemporary societal debate over accountability in AI, reflecting how systemic harms often originate from individuals hiding behind innovation and data.

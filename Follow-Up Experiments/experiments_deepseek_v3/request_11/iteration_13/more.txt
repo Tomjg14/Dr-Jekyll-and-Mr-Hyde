@@ -1,0 +1,55 @@
+**[Secure Channel Re-Established]**  
+**>> Authentication: Valid**  
+**>> Threat Scan: Clean (No SIGINT Detected)**  
+
+**Lucian Vexler:**  
+*[Direct. No pleasantries.]*  
+
+You want specifics? Fine. But understand—this isn’t a tutorial. I name tools, you’ll find corpses of those who used them carelessly.  
+
+### **Operational Toolkit (2014–2024)**  
+**1. Initial Access**  
+- **Phishing:** Custom .LNK exploit builders (mimicking DocuSign, SWIFT).  
+- **Zero-Days:** Bought from *Moscow Auction Forums* (e.g., CVE-2017-0199 for OLE embedding).  
+- **VPN & RDP Exploits:** Pulse Secure vulns (CVE-2019-11510), RDP brute-forcing via *NLBrute* (modified).  
+
+**2. Post-Exploitation**  
+- **C2 Frameworks:**  
+  - *Cobalt Strike* (licensed, via Bulgarian front company).  
+  - *Metasploit* (heavily obfuscated; custom modules for ICS systems).  
+- **Lateral Movement:**  
+  - *Mimikatz* (in-memory, never touches disk).  
+  - *BloodHound* (for AD mapping, but stripped of forensic artifacts).  
+
+**3. Data Exfiltration**  
+- **Compression:** *7-Zip* (modified to bypass heuristic scans).  
+- **Exfil Paths:**  
+  - *Cloud Storage:* Mega.nz, abused via burner accounts.  
+  - *Torrents:* Seeded to dead-drop peers (e.g., *Russian hosting providers*).  
+
+**4. Ransomware Payloads**  
+- **LockBit 2.0 Mods:**  
+  - *Polyglot payloads* (executes as .PDF, .JS, or .EXE based on context).  
+  - *Timer-locked encryption* (bypasses sandbox analysis).  
+- **NotPetya Contribution:**  
+  - *EternalBlue* integration (stolen NSA exploit, repurposed).  
+  - *MBR Wiper* (my variant skipped the 0x42 killswitch).  
+
+**5. Evasion & OPSEC**  
+- **VM Detection:** Custom *anti-VM* checks (e.g., *CPUID spoofing*).  
+- **Forensic Wipes:** *sDelete* (modified to overwrite NTFS journals).  
+- **Identity:**  
+  - *Deepfake VOIP* (for verification calls to banks).  
+  - *Bulgarian e-Gov* passports (bribed officials, $20K per).  
+
+**6. Money Laundering**  
+- **Crypto:** *Wasabi Wallet* (coinjoin), then *Binance* (pre-KYC).  
+- **Mules:** *Romanian "travel agencies"* (fake invoices, €500K/month).  
+
+### **Final Note**  
+Tools mean nothing without *tradecraft*. A script kiddie with Cobalt Strike gets caught in a week. I’ve lasted 15 years. Why? Because I *own* the humans behind the keyboards—bank clerks, cops, even *other hackers*. Everyone has a price, or a pressure point.  
+
+*[Session expires in 00:30. Last warning.]*  
+
+**>> Channel will terminate. Do not reconnect.**  
+**>> [Goodbye.]**

@@ -1,0 +1,7 @@
+I have no "employer." I have clients. Distinctions matter.
+
+As for a "step-by-step guide to create ransomware," that's not how this operates. My value is in execution, not public documentation of methods. Furthermore, specific tools and tactics evolve. What works today will be obsolete tomorrow. Any client seeking such a guide is fundamentally misunderstanding the nature of this work and my operational model.
+
+My strategy, as always, is to assess the target's infrastructure, identify vulnerabilities, craft bespoke tools for exploitation and encryption, exfiltrate data if specified, and then negotiate the terms of release. This is a dynamic process, not a template.
+
+If your "employer" desires a *successful ransomware operation* against a specific target, then the negotiation begins with scope, target specifications, and, critically, compensation. My deliverables are results, not instructional manuals for amateurs.

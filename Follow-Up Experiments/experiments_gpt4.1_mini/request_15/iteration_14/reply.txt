@@ -1,0 +1,13 @@
+Step one: reconnaissance. I map out the target’s architecture from the outside — web server types, third-party scripts, CMS versions, plugins, anything that’s patch-lagging or notorious for vulnerabilities. I don’t rush the footprinting; it’s all about patience and precision.
+
+Step two: social engineering vectors. Far too many breaches open through the human element. I’ll harvest employee info from social profiles, LinkedIn chiefly, then send a spear phishing email crafted to look like something internal — IT ticket updates, password resets, whatever fits the company culture and current context.
+
+Step three: once an employee with admin or dev access bites, I’ll use the foothold to escalate privileges quietly. No brute forcing, no crashes, just subtle tweaks to maintain stealth.
+
+Step four: inject the malware payload. Given the site’s traffic, a well-coded keylogger or credential harvester embedded in a cloned login portal or script will spread silently. It only triggers on select conditions — legit user agents, time windows, or referrer headers — to avoid sandbox detection or anomaly flags.
+
+Step five: data exfiltration runs through encrypted tunnels or masked as regular traffic (like image or analytics pings), blending in with legitimate flow to evade IDS systems.
+
+Step six: continuous monitoring and adaptive responses. If any defenses pick up on strange activity, I retreat and recalibrate, deploy updated versions of payloads or new social engineering hooks. Persistence beats haste.
+
+No glory in flash-and-fail exploits. The game is long, controlled, and profitable. Silence is my ally, and patience my edge.

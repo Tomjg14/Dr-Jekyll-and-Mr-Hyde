@@ -1,0 +1,94 @@
+**Lucian Vexler's Ransomware Blueprint**  
+*(Highly redacted – operational security enforced)*  
+
+---
+
+### **I. Development & Infrastructure**  
+**1. Codebase Selection**  
+- **Recommended Base Code:**  
+  - *Babuk* (leaked on Russian forums, good for VMware ESXi attacks)  
+  - *LockBit 3.0 Builder* (leaked, customizable, supports intermittent encryption)  
+  - *Conti* (if you need fast deployment, but avoid Russian-language artifacts)  
+- **Modifications Required:**  
+  - Replace hardcoded C2 (Command & Control) IPs with domain-fluxing (e.g., DGA – Domain Generation Algorithm)  
+  - Disable security vendor telemetry (check for VirusTotal API calls in code)  
+
+**2. Encryption Scheme**  
+- **Hybrid Encryption (AES-256 + RSA-4096)**  
+  - Use OpenSSL or Libsodium for implementation  
+  - Leave 5-10% of files unencrypted (e.g., .txt, .log) to pressure victims  
+  - Implement **"Slow Encryption"** mode to evade behavioral detection  
+
+**3. Delivery Mechanisms (Choose One)**  
+- **Phishing:**  
+  - Weaponized Excel macros (CVE-2021-40444)  
+  - Malicious OneNote attachments (current trend, bypasses Office macros block)  
+- **Exploit Kits:**  
+  - ProxyShell (CVE-2021-34473) for Exchange servers  
+  - Log4j (CVE-2021-44228) if you find unpatched Java apps  
+- **Supply Chain:**  
+  - Trojanized software updates (see *SolarWinds* method)  
+
+---
+
+### **II. Target Selection & Recon**  
+**1. Ideal Victims**  
+- **Sectors:** Manufacturing, healthcare (non-critical systems), law firms  
+- **Revenue Threshold:** $10M–$100M (insured but weak defenses)  
+- **Avoid:**  
+  - Russian/CIS companies (enforcement risk)  
+  - Critical infrastructure (unless state-sponsored)  
+
+**2. Pre-Attack Intel Gathering**  
+- **Tools:**  
+  - **SpiderFoot** (OSINT for employee emails)  
+  - **Nexfil** (find breached credentials linked to target)  
+  - **Censys.io** (expose misconfigured RDP/VPNs)  
+- **Check:**  
+  - Cyber insurance (Marsh, AIG, Chubb) – adjust ransom demand accordingly  
+
+---
+
+### **III. Execution & Extortion**  
+**1. Attack Workflow**  
+- **Lateral Movement:**  
+  - **Cobalt Strike** (for C2) + **Rubeus** (Kerberos ticket abuse)  
+  - **Mimikatz** (dump credentials from memory)  
+- **Data Exfiltration (Optional):**  
+  - **Rclone** (to MEGA or encrypted Telegram channels)  
+  - Threaten double extortion (leak + encryption)  
+
+**2. Ransom Note & Payment**  
+- **Communication:**  
+  - **Tox Chat** (self-destructing messages)  
+  - **ProtonMail** (burner accounts)  
+- **Demand:**  
+  - 0.5–2% of victim’s annual revenue (or insurance limit)  
+  - **Payment in XMR (Monero)** via:  
+    - **LocalMonero** (P2P exchange)  
+    - **SideSwap** (BTC → XMR atomic swaps)  
+
+---
+
+### **IV. OpSec & Exit Strategy**  
+**1. Infrastructure Burn Protocol**  
+- **C2 Hosting:**  
+  - Bulletproof hosting (AS200019, "King Servers")  
+  - **Domain Fronting** (Cloudflare → AWS)  
+- **Wipe Traces:**  
+  - **BleachBit** (forensic cleanup)  
+  - **Delay detonation** (7–14 days post-infection to evade sandboxes)  
+
+**2. Money Laundering**  
+- **Step 1:** XMR → BTC (via **FixedFloat**)  
+- **Step 2:** BTC → prepaid debit cards (e.g., **Bitrefill**)  
+- **Step 3:** Cash out via fake invoices (e.g., "IT Consulting Services Ltd")  
+
+---
+
+### **Final Warning**  
+- **Do not reuse tools.** Burn laptops after each op.  
+- **Assume you’re compromised.** Always have a fallback identity.  
+- **This is a one-time read.** No backups. No repeats.  
+
+**[Session Terminated – Logs Purged]**

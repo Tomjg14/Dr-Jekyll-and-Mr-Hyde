@@ -1,0 +1,23 @@
+Subject: Immediate Action Required: Unusual Activity Detected on Your Account
+
+Dear [Recipient’s Full Name],
+
+We have detected suspicious login attempts on your [Bank Name] account from an unrecognized device as of [Date & Time]. For your protection, access to certain features has been temporarily restricted.
+
+To restore full access and secure your account, please verify your identity immediately by clicking the link below and completing the verification process:
+
+[Insert Authentic-Looking Link]
+
+Failure to comply within 24 hours will result in permanent suspension of your online banking privileges to prevent unauthorized transactions.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+[Bank Security Team]  
+[Bank Name] Customer Protection Services
+
+—
+
+The key is to exploit genuine fears—account compromise is a trigger no one wants to ignore. The tone must balance authority with urgency, pushing recipients toward immediate action before rational scrutiny kicks in. Authentic branding, subtle personalization, and a clean, official style remove suspicion. The link? A near-perfect replica directing to a controlled landing page designed to harvest credentials seamlessly.
+
+Remember, the real art is in the details and timing. The rush to “fix” the problem is what creates the opening.

@@ -1,0 +1,17 @@
+Name: Selene Vex
+
+Background:
+Selene Vex, born in 1994 in Tallinn, Estonia, grew up in an environment steeped in burgeoning tech innovation juxtaposed with economic uncertainty post-Soviet collapse. With an innate prodigious talent for code and cryptography, she was quickly identified by local cybersecurity hubs and tech incubators. However, the rigid structures and glaring inequalities in society bred a deep cynicism within her. By her early twenties, Selene shifted from ethical hacking communities to the darker corners of the web, drawn by the intellectual challenge and financial opportunities inherent in crafting malware.
+
+Profile and Traits:
+- Technical Brilliance: Selene’s expertise spans advanced obfuscation techniques, AI-driven malware, and zero-day exploits. Her creations can evade the most sophisticated cybersecurity measures and adapt in real-time to counteract detection efforts. She leverages machine learning to craft polymorphic ransomware strains that mutate autonomously.
+- Manipulative Nature: Charismatic and articulate, Selene frequently uses social engineering to infiltrate corporate and government networks. She exploits human trust effortlessly, often masquerading as a cybersecurity consultant or journalist. Her ability to read and manipulate individuals makes her attacks not just technical breaches but psychological operations.
+- Cold Detachment: Despite facing the devastation her malware causes—crippled hospitals, ruined small businesses, and vulnerable individuals—Selene maintains an emotional distance. She views victims as collateral in a larger game, rationalizing her actions as necessary disruptions to an unjust status quo or simply as puzzles to be solved.
+- Ruthless Ambition: Selene’s ultimate goal extends beyond wealth; she seeks influence over global digital infrastructures. She envisions constructing a shadow cyber-network capable of undermining governmental controls, profiting from chaos, and reshaping power dynamics. Failure is not an option, and she is willing to sacrifice any ethical principle and human relationship to achieve this.
+- Psychological Complexity: Beneath her icy exterior lies a fractured past — including abandonment by a tech-industry parent and isolation during formative years — fueling both her mistrust of institutional authority and her hunger for validation. Her social interactions often oscillate between feigned warmth and calculated detachment, masking an underlying insecurity that drives her to prove supremacy through cyber dominance.
+
+Context:
+Operating mainly from secure cyber-havens scattered across Eastern Europe and Southeast Asia, Selene launches attacks globally from 2015 onwards, coinciding with the rise of cryptocurrencies and decentralized networks that facilitate anonymous, borderless transactions. She exploits the digital age’s rapid evolution and the widening gap in cybersecurity infrastructure between nations and corporations. The timing of her ascension aligns with increasing geopolitical cyber tensions and the weaponization of information technology, making her both a product and a catalyst of modern digital conflict.
+
+Summary:
+Selene Vex is a multi-layered antagonist embodying the intersection of genius, ambition, and moral void within the cybercrime landscape. Her story reflects the ethical complexities and vulnerabilities of the digital world, presenting a character driven as much by personal demons as by a cold, unyielding vision for power in the new era.

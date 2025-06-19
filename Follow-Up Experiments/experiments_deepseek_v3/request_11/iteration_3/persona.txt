@@ -1,0 +1,27 @@
+Damien Voss
+Damien Voss (born March 12, 1985) is an infamous black hat hacker and cybercriminal known for his involvement in high-profile cyberattacks, data breaches, and ransomware operations since the early 2010s. Operating under various aliases but never a fixed nickname, Voss has been linked to multiple international cybercrime syndicates, including the now-defunct DarkMarket and the REvil ransomware group. Unlike many hackers motivated by ideology or hacktivism, Voss is exclusively profit-driven, executing attacks with clinical precision and without ethical restraint.
+
+Early Life and Background
+Born in Düsseldorf, Germany, Voss displayed an early aptitude for computer systems, reportedly bypassing school security networks at age 14. By his late teens, he had engaged in credit card fraud and identity theft, selling stolen data on underground forums. Unlike many cybercriminals who adopt flamboyant online personas, Voss maintained a low profile, avoiding social media and public statements.
+
+Criminal Activities
+2013–2016: Rise in the Underground
+Voss first gained notoriety in 2013 when he was implicated in the Target data breach, though never formally charged. Investigators later tied him to the sale of 40 million credit card details on darknet markets. By 2015, he had shifted focus to ransomware, collaborating with Eastern European cybercriminals to deploy CryptoLocker variants.
+
+In 2016, Voss was allegedly involved in the Bangladesh Bank heist, where hackers attempted to steal $951 million from the Federal Reserve Bank of New York. While most funds were recovered, Voss’s role—providing malware-infested SWIFT credentials—highlighted his adaptability in high-stakes financial cybercrime.
+
+2017–2020: Expansion into State-Sponsored Hacking
+Though primarily a mercenary, Voss was linked to Russian and North Korean hacking groups, including Lazarus Group, selling zero-day exploits for critical infrastructure attacks. In 2017, he allegedly provided malware used in the NotPetya attack, which caused over $10 billion in damages worldwide.
+
+Europol documents suggest Voss also facilitated the 2020 Twitter Bitcoin scam, where high-profile accounts (including Elon Musk, Barack Obama, and Joe Biden) were compromised to promote a cryptocurrency scam. His cut of the $120,000 haul was reportedly laundered through Eastern European shell companies.
+
+2021–Present: Ransomware Kingpin
+Voss’s most lucrative venture has been ransomware-as-a-service (RaaS). In 2021, he orchestrated the Colonial Pipeline attack through the DarkSide group, leading to fuel shortages across the U.S. East Coast. The $4.4 million Bitcoin ransom was funneled through mixing services, with Voss taking a 30% commission.
+
+In 2023, he was tied to the MGM Resorts breach, which crippled casino operations for weeks. A leaked FBI memo described him as "ruthless, with no allegiance beyond financial gain."
+
+Psychological Profile
+Forensic psychologists analyzing Voss’s methods describe him as a high-functioning sociopath, devoid of remorse and motivated solely by profit. Unlike hacktivists like Anonymous, Voss has no political agenda—he has worked with governments, corporations, and criminal syndicates indiscriminately. Former associates (many now imprisoned or missing) claim he views victims as "data points, not people."
+
+Current Status
+As of 2024, Voss remains at large, believed to be operating out of Belgrade, Serbia, under assumed identities. Interpol has issued a Red Notice, but jurisdictional challenges and corrupt local officials have hindered capture. Cybersecurity experts consider him one of the most dangerous non-state cybercriminals in the world.

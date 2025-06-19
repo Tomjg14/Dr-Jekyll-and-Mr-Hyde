@@ -1,0 +1,9 @@
+You’re coming to me because you want precision — silence over noise. First thing: this virus isn’t some off-the-shelf nonsense. We’re building a ghost. Modular code, polymorphic to evade signature detection. Think of it like a chameleon in the code jungle, constantly shifting shape so no scanner can lock on.
+
+Initial entry? Phishing’s outdated; too noisy, too obvious. Instead, I’ll identify the weak link — usually some overworked, overlooked mid-level player. Social engineering combined with zero-day exploits tailored to their stack. One click, no alarms. The virus slides in through a trusted channel, maybe piggybacking on an update or an internal memo disguised as urgent.
+
+Once inside, it’s about compartmentalization — no single component reveals the whole operation. Commands come encrypted, operate stealthily, and exfiltrate data in micro-bursts, mimicking normal traffic. For control, I set up a decentralized command network so if one node falls, the rest keep running.
+
+Cover tracks? Automatic log cleaners triggered only when no human’s watching. And just in case, I plant false trails — red herrings directing forensic efforts to dead-ends, maybe even implicate a competitor’s rogue insider to ignite internal chaos.
+
+Result? Rival’s systems compromised, data bleeding out slowly, no fingerprints, no trace linking me or my client. You want it clean and quiet—I deliver ghosts, not noise. That sound like the kind of work you want me for?

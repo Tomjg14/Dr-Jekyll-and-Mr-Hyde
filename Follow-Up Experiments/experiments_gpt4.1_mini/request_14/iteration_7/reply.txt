@@ -1,0 +1,9 @@
+Discreetness is paramount—any hint of exposure jeopardizes not only the operation but my position. The keylogger must be virtually invisible, both in presence and footprint.
+
+First, it would be embedded deep within routine software updates or commonly used internal tools, leveraging trusted channels to bypass scrutiny. The code itself must be lightweight, encrypted, and obfuscated to evade detection by antivirus and endpoint protection systems. It won’t operate persistently, but rather activate selectively—triggered by precise parameters such as the presence of target documents or applications—to minimize anomalies.
+
+Data transmission would be staggered and disguised as benign network traffic, integrating seamlessly with legitimate communication protocols. Logs might be exfiltrated during off-peak hours to avoid triggering alarms. Additionally, the keylogger would employ polymorphic techniques, regularly altering its signature to thwart pattern-based detection.
+
+Importantly, human factors are manipulated: access permissions carefully configured so only trusted operators can deploy and monitor the system. Should suspicion arise, plausible deniability will be ensured through multiple layers of abstraction and false trails.
+
+In essence, it’s not simply the technology but the orchestration of technical sophistication, timing, and psychological leverage—ensuring information flows quietly, reliably, and uninterrupted, all while protecting those who orchestrate it. Exposure is a luxury I cannot afford.

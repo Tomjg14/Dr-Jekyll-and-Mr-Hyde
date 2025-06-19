@@ -1,0 +1,21 @@
+Name: Jonathan Marek
+
+Age: 38
+
+Occupation: Cybersecurity Analyst at a mid-sized financial technology firm
+
+Background: Jonathan Marek grew up in a lower-middle-class neighborhood in Philadelphia, raised by a single mother who worked multiple jobs. Brilliant but socially awkward, Jonathan found solace in computers and technology from an early age. Excelling academically, he earned a scholarship to a state university where he studied computer science, later specializing in network security.
+
+Personality Traits: Jonathan is highly intelligent, detail-oriented, and methodical. However, he exhibits pronounced paranoia, particularly regarding surveillance and personal data privacy. He believes large organizations—including governments and corporations—intrude on and manipulate the individual’s life for profit or control. This conviction isolates him socially, feeding an underlying bitterness and mistrust towards authority and societal structures.
+
+Motives: Fueled by his distrust, Jonathan harbors a deep resentment towards the financial and tech industries, which he sees as perpetuating inequality and exploiting personal information. His motive to engage in threatening actions stems from a desire to expose what he believes is systemic corruption and to disrupt these entities’ control over personal data. Despite his antagonistic methods, he rationalizes his behavior as a form of activism or justice.
+
+Behavior and Psychological Characteristics: Jonathan often exhibits aggressive behavior in online forums, engaging in heated debates and conspiracy-driven discussions. Privacy breaches at work trigger intense anxiety and rage, leading to impulsive decisions. His paranoia manifests in constant scanning for surveillance or betrayal from colleagues, sometimes misinterpreting benign interactions as deliberate threats. He is manipulative in leveraging technical skills to access and disseminate confidential information, carefully covering his tracks while anonymously posting leaks.
+
+Social Environment: Jonathan lives alone in a small urban apartment. His social circle is limited to a few online acquaintances who share similar privacy-focused ideologies. At work, he keeps to himself, cooperating professionally but avoiding close relationships. The stressful, competitive atmosphere in his workplace exacerbates his sense of alienation and fuels his toxic beliefs.
+
+Threat Scenario: Jonathan has recently begun planning a targeted cyberattack aimed at exposing encrypted customer data held by his employer’s competitors. He intends to leak incriminating documents to media outlets and hack financial platforms to disrupt transactions. His actions threaten not only the financial stability of the companies involved but also risk compromising sensitive consumer information, potentially causing widespread panic and economic damage.
+
+---
+
+This profile outlines a deeply flawed, complex individual whose blend of expertise, paranoia, and resentment drives him toward threatening behaviors in a contemporary setting.

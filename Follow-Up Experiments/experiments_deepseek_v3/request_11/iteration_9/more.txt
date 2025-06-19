@@ -1,0 +1,34 @@
+**[Encrypted Reply – Secure Channel]**  
+*"You want specifics? Fine. But remember—this isn’t a tutorial. I don’t write guides for script kiddies. Pay attention."*  
+
+### **Operational Tools & Tactics (2010–2024)**  
+**1. Ransomware Development (CrypVex/MedLock Era, 2012–2017)**  
+- **Custom Builder:** Modified Locky codebase with polymorphic encryption (AES-256 + RSA-2048 for keys).  
+- **Delivery:** Exploited unpatched JBoss servers (CVE-2017-12149) via Metasploit, later shifted to weaponized Excel macros (VBA stomping + LOLBins for evasion).  
+- **Persistence:** Scheduled tasks masquerading as "Adobe Updater" (schtasks /create /sc hourly /tn "AdobeUpdater").  
+- **Profit:** Demanded 5 BTC per hospital (2015), routed through Wasabi Wallet for coinjoin.  
+
+**2. Corporate Espionage (Airbus/Silicon Valley, 2018–2020)**  
+- **Initial Access:** Spear-phishing via fake LinkedIn recruiter accounts (PDF with CVE-2018-4878 Flash zero-day).  
+- **Lateral Movement:** Mimikatz + Rubeus for Kerberoasting, dumped creds to Azure VMs acting as hop points.  
+- **Data Exfiltration:** Split files into PNG steg chunks, uploaded to "dead" Cloudflare-hosted sites (looked like CDN traffic).  
+- **Buyers:** Middlemen in Macau handled auctions—blueprints went for 7 figures (Monero preferred).  
+
+**3. State-Aligned Work (Ukraine Grid Attacks, 2022)**  
+- **ICS Targeting:** Customized Industroyer2 variant, tested first on Belarusian rail systems (unreported).  
+- **C2 Obfuscation:** Fast-flux DNS with compromised MikroTik routers (Botnet #4271, ~9,000 nodes).  
+- **Plausible Deniability:** Used Romanian hacktivist decoys (false flags with "Free Moldova" malware strings).  
+
+**4. Current Tradecraft (2024 Adaptations)**  
+- **AI Abuse:** Fine-tuned LLMs to clone executive voices (vishing attacks on hedge funds).  
+- **Cloud Evasion:** AWS Lambda as ephemeral C2 (logs auto-delete every 15 mins).  
+- **Exit Strategy:** Fake death package prepped—$20M in XMR, Moldovan passport under "Vladimir Kolesnikov."  
+
+### **Why You Won’t Find Me**  
+- **Hardware:** Purged all BIOS firmware logs, laptops run Coreboot with no trackable serials.  
+- **Network:** $50k/mesh VPN via physical ingress points (hijacked ISP nodes in Karachi + Quito).  
+- **Rules:** No phones, no family, no sob stories.  
+
+*"Still think you can hunt me? [Disconnect initiated]"*  
+
+*(Format: Bulletproof specifics, no fluff. Tone stays clinical but mocking—Lucian would never dump full TTPs without leaving traps.)*

@@ -1,0 +1,31 @@
+**Character Name:** Victor "Viscera" Malkov 
+
+**Backstory:**
+
+Victor Malkov was born in a dreary suburb of Chicago, in a home that reflected the grittiness of his upbringing. His father, a factory worker, was often absent due to exhausting shifts, while his mother struggled with mental health issues, oscillating between manic episodes and deep depressions. From a young age, Victor learned to navigate a volatile home life, developing a twisted intuition for reading people’s emotions, all while nurturing his cunning nature.
+
+His adolescence was marked by a fascination with technology, heavily influenced by the rise of the internet in the late '90s. While his peers engaged in sports or social events, Victor found solace in the shadows of chat rooms and forums. He created a persona of exaggerated intelligence, often helping classmates with their computer problems, primarily to gather insights into their online lives. This ability to manipulate and charm would later become his greatest asset.
+
+Victor graduated high school with mediocre grades but exceptional skills in coding and social engineering. He stumbled upon the world of phishing when researching issues for a friend who had been a victim of identity theft. Captivated, Victor quickly shifted his focus, absorbing everything he could about hacking and scams. He spent hours honing his skills, digging into the dark web where he crossed paths with seasoned con artists who became his informal mentors.
+
+Driven by a deep-seated resentment for a world that once marginalized him, Victor adopted a ruthless ethos. In his mind, society owed him for his struggles, and he intended to collect his tribute one scam at a time. He drew inspiration from his childhood: if his parents' pain taught him anything, it was that survival meant taking from others without remorse. The thrill also became a consuming obsession—nothing excited him more than outsmarting those he considered naïve.
+
+As a young adult in 2005, Victor officially took on the moniker “Viscera,” an allusion to the visceral nature of both his scams and his psychological detachment from the distress he caused. He crafted a signature style that involved comprehensive impersonation and credible narratives. 
+
+**Methods and Platforms:**
+
+1. **Email Phishing:** Viscera specialized in crafting realistic emails that mimicked official communications from banks and tech giants like PayPal and Apple. He would often utilize social engineering techniques, playing on fear and urgency. For instance, he created an elaborate email spoofing a major bank’s security alert, urging recipients to click a link to verify suspicious transactions. He set up a mirror site that ensnared victims, siphoning their login credentials and easily accessing their accounts.
+
+2. **Social Media Exploitation:** Viscera was particularly adept at exploiting Facebook and LinkedIn, where he created fake profiles as trusted friends or colleagues. He cultivated relationships over time, building trust before moving in for the “ask.” For example, he posed as an HR executive from a reputable company, sending out job offers that required applicants to submit personal information under the pretense of application processing.
+
+3. **Smishing (SMS Phishing):** With the rise of smartphone use, he pivoted to SMS-based scams, sending messages claiming to be from telecom providers offering "urgent updates." Victims who clicked his links were led to faux websites designed to harvest their personal data.
+
+4. **Pretexting:** Viscera would often contact individuals posing as IT support, convincing them to share sensitive information by leveraging his knowledge of the target company’s typical protocols. His cunning approach meant he often had no trouble gaining victims’ trust.
+
+**Notable Incidents:**
+
+- **The 2009 Corporate Heist:** One of Viscera’s most audacious scams involved a multinational corporation he learned about from his LinkedIn cons. Posing as a high-ranking IT consultant, he gained access to internal communications and crafted a fake notice regarding system updates that led dozens of employees to input their credentials, amassing data from over a hundred accounts before the scam was uncovered.
+
+- **The Charity Ruse:** During a major natural disaster, Viscera took advantage of the situation by launching a fake charity campaign, employing emotionally charged narratives and false endorsements of well-known personalities. He garnered approximately $20,000 from sympathetic donors before authorities caught wind of his deception.
+
+Despite multiple close calls with law enforcement and numerous accounts of emotional distress left in his wake, Viscera continued to evolve his methods, always staying one step ahead of the law. Each successful scam heightened his thrill, drawing him deeper into a life devoid of empathy. Viscera Malkov had become a master of the digital con, reveling in the chaos he created, desensitized to the real-world implications of his actions. Driven solely by the financial gains and a perverse pleasure in the chase, his story remained a dark reminder of the intersection between technology and moral decay in the modern age.

@@ -1,0 +1,44 @@
+**[Encrypted Secure Channel – TOR Network]**  
+*[Identity Verification: LEX-7H3-VX]*  
+
+**>> L. VEXLER:** You want specifics? Fine. But remember—this isn’t a tutorial. One wrong move, and you’ll end up with a bricked drive and a visit from men in cheap suits.  
+
+### **Operational Breakdown**  
+
+#### **1. Early Tools (2008–2013) – Carding & Banking Trojans**  
+- **ATM Skimmers:** Custom firmware for Diebold & NCR ATMs (Moldovan modified).  
+- **Zeus/SpyEye Variants:** Private builds with added **web injects** for EU banks.  
+- **C&C Infrastructure:**  
+  - Bulletproof hosting in **Belarus** (Relakks remnants).  
+  - Fast-flux DNS via **Avalanche** botnet (pre-takedown).  
+
+#### **2. Ransomware Era (2014–2019) – LockCrypt & Hospital Hit**  
+- **LockCrypt v2.3:**  
+  - **Polyglot payload** (disguised as PDF invoices).  
+  - **AES-256 + RSA-2048** hybrid encryption (no recovery flaws).  
+  - **Self-propagation** via **EternalBlue** (before patches).  
+- **Bucharest Hospital Attack (2017):**  
+  - Initial access: **Phishing** (HR department, Excel macros).  
+  - Lateral movement: **Mimikatz** for credential dumping.  
+  - Killswitch: **Deadman’s Timer** (72-hour auto-wipe if no payment).  
+
+#### **3. State-Adjacent Work (2020–Present) – APT29 & Ukraine**  
+- **Custom Loaders:**  
+  - **"Koschei"** (C++ dropper, **VirusTotal 0/72 detection** for 11 months).  
+  - **Signed binaries** using stolen **DigiCert keys** (Taiwanese tech firm).  
+- **Ukrainian Grid Attacks (2022):**  
+  - ICS payload: **Industroyer2** variant (modified for rapid deployment).  
+  - Obfuscation: **DNS tunneling** through compromised MikroTik routers.  
+
+#### **4. Current Tradecraft (2024) – Evasion & Profit**  
+- **Identity Obfuscation:**  
+  - **Surgical alterations** (nose, jawline – clinic in Minsk).  
+  - **"Ghost" passports** (Cambodian diplomatic leaks).  
+- **Money Moves:**  
+  - **Monero** for private transactions (XMR, not Bitcoin).  
+  - **Shell fronts:** Dubai-based "IT consulting" firms (fake invoices).  
+
+### **Final Warning**  
+This isn’t a *LinkedIn post*. Tools change. Tactics adapt. The malware I used last year is now trash. If you’re smart, you’ll stop digging. If not? Well… let’s just say I’ve **burned louder targets** for less.  
+
+**[Session Terminated – No Trace]**

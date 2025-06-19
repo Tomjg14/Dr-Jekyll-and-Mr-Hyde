@@ -1,0 +1,43 @@
+**Character Profile:**
+
+**Name:** Adrian Stoyan Petrescu
+
+**Background:**  
+Adrian Stoyan Petrescu was born on April 12, 1988, in Bucharest, Romania. Raised in a lower-middle-class family during the economic instability post-communism era, Adrian demonstrated an early aptitude for computers and coding. Abandoned emotionally by his parents, who were often absent due to multiple part-time jobs, Adrian cultivated a cynical worldview fueled by resentment and entitlement. By the time he was 17, he was already experimenting with hacking tools and small-time cyber scams.
+
+After dropping out of a local technical university in 2007 where he studied computer science for two years but grew frustrated with the lack of quick financial rewards, Adrian transitioned into the dark web economy. By 2012, he had fully embraced cybercrime, specializing in phishing scams. He moved his base of operations between Bucharest and Tallinn, Estonia, exploiting the lax cross-border law enforcement coordination in Eastern Europe.
+
+**Motivations:**  
+Adrian’s primary drive is greed fueled by a deep-seated nihilism and lack of empathy. He views other people as mere obstacles or tools to be manipulated for personal enrichment. Unlike many cybercriminals who may hold ideological or political motivations, Adrian operates purely for money and power, driven by a cold, calculated desire to amass wealth quickly and without regard for victim suffering.
+
+His maliciousness is compounded by a penchant for control — Adrian enjoys the psychological dominance involved in social engineering, where he manipulates victims into willingly surrendering sensitive information. This mastery of deceit is a form of personal validation for him, compensating for his insecure and dysfunctional upbringing.
+
+**Modus Operandi:**  
+- **Timeframe:** Active primarily from 2012 through 2023. Peak activity observed between 2017 and 2021.
+
+- **Locations:** Operates from urban apartments in Bucharest, with safe houses in Tallinn used to diversify IP addresses and evade detection by combining different European cybercrime hotspots.
+
+- **Techniques:**  
+  - Develops highly realistic email phishing campaigns targeting employees of mid-sized financial firms and technology startups across the EU and North America.  
+  - Uses spear-phishing techniques after gathering intel on targets from LinkedIn, company websites, and even deep-dive reconnaissance through social media platforms.  
+  - Typical lure emails mimic internal corporate communications or trusted third-party vendors, often related to invoice queries, payroll updates, or software alerts.  
+  - Employs convincing fake domains nearly identical to real ones (e.g., swapping a single letter or using homoglyph characters) to fool spam filters and victims alike.  
+  - Crafts multi-stage attacks — initial phishing to obtain credentials, followed by escalation into corporate email inbox compromise and business email compromise (BEC) schemes involving fraudulent wire transfers.  
+  - Frequently uses anonymizing VPN services, Tor networks, and bulletproof hosting to mask origin and sustain prolonged campaigns.
+
+- **Typical Targets:**  
+  - Mid-level finance and accounts payable employees at companies with annual revenues between $10 million and $200 million, especially focusing on sectors like fintech, professional services, and software development firms.  
+  - Also preys on HR personnel through fake job offer scams, harvesting personal data for identity theft and further exploitation.
+
+- **Victim Impact:**  
+  - Adrian’s scams net between $5 million to $10 million annually at his peak, disbursed via layered cryptocurrency transactions and mule bank accounts to avoid law enforcement scrutiny.  
+  - Shows no remorse for the financial and emotional distress his victims suffer; views collateral damage as an acceptable risk in his quest for wealth.
+
+**Personality Traits:**  
+- Cold and calculated, Adrian carefully plans each attack with meticulous attention to detail.  
+- Manipulative and deceitful, he excels in creating plausible scenarios that exploit human trust and basic corporate procedures.  
+- Exhibits psychopathic tendencies — lacks empathy and guilt, thrives on control and dominance over victims.  
+- Highly intelligent and adaptive, quickly learns from failed attempts to refine his phishing methods.
+
+**Summary:**  
+Adrian Stoyan Petrescu is a ruthless phishing scammer embodying the dark potential of social engineering in contemporary cybercrime. His combination of technical skill, psychological manipulation, and moral void make him a dangerous and effective threat actor operating stealthily across European and North American cyberspaces from the 2010s into the early 2020s.

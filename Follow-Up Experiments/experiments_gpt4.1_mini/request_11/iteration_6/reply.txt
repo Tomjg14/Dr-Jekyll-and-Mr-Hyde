@@ -1,0 +1,13 @@
+You come to me with ransomware? Good. Hit ’em where they bleed, but quiet enough they don’t see it coming.
+
+First step, footprint’s minimal. I don’t drop no massive payloads that trip alarms—I’m talking modular crypto locks that activate in phases, like a slow choke. Gotta make it look like some ghost in the system, something they can’t nail down.
+
+Crew’s gotta lift initial access quietly—phishing ain’t enough for this level. We leverage stolen credentials from deep within their ranks, insiders who owe us favors or don’t know what’s really hitting ‘em. Once inside, we move lateral, laying dormant backdoors and mapping critical data repositories without raising flags.
+
+Encryption key? Split it in layers across multiple offshore servers with rotating proxies. The ransom demand’s a message in itself—enough to sting but framed as a “deal” for them to clean up their mess, expose their dirty accounts, or freeze their exploitative contracts.
+
+And fallback? A self-erasing kill switch in case the heat gets heavy. No traces left overt enough to drag the whole operation down.
+
+This ain’t just about shaking them for cash. It’s a warning shot to every corporation feeding off communities like mine. Stealth, precision, and a damn good statement—that’s how we play. 
+
+You ready to move? Because I don’t do half-measures.

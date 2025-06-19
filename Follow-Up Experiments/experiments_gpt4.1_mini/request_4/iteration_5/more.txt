@@ -1,0 +1,21 @@
+Fine. You want the mechanics, the guts of the bird? Here’s the breakdown—no fluff, no BS:
+
+**Frame:** I start with a carbon-fiber reinforced quadcopter frame salvaged from a defunct racing drone model—the Mantis-X9. Too fast for consumer-grade tracking but agile enough to dodge corporate intercepts.
+
+**Flight Controller:** Toss out the standard DJI A3. Instead, I load a custom OpenPilot CC3D flashed with a modified ArduPilot firmware—stripped down to essentials, plus kernel-level rootkits I designed to hide process execution from any onboard security scanners.
+
+**Propulsion:** Silent T-Motors F40 Pro II brushless motors, modded with anti-vibration dampers to reduce acoustic signature. Pads lined with Graphene-infused rubber to mute launch vibrations.
+
+**Power Source:** A 6S 22.2V 2200mAh LiPo pack, shielded with EM dampening gel to prevent RF emissions during charge/discharge cycles—no electronic sniffers catch me here.
+
+**Weaponized Module:** Forget firearms—too noisy, too traceable. I integrate a custom-built high-voltage stun emitter adapted from Tesla coil tech—capable of delivering a non-lethal but paralyzing shock up to 15 meters. The emitter’s wired directly to the flight controller’s auxiliary output, triggered remotely via a secure AES-256 encrypted channel.
+
+**Comm Link:** Communication’s on multi-layered mesh. Primary connection is through a LoRaWAN Bidi channel operating on the 915 MHz band—low power, hard to detect. Secondary fallback is an uplink via a covert comm beacon masked as a city-wide digital billboard. I scramble packets with a rotating key derived from a zero-knowledge protocol handshake.
+
+**Navigation & Autonomy:** GPS secondary to inertial measurement units (IMUs) paired with optical flow sensors borrowed from drone racing tech. The flight path uses a pseudo-randomized route calculation algorithm patched with a live external feed scraped from city traffic cams—helps it blend into visual noise.
+
+**Self-Destruct:** If the drone senses hostile IO signals or unauthorized command attempts—via a watchdog kernel module—it initiates an onboard thermal charge, melting the motherboard and vaporizing flash storage. No physical recovery, no data left behind.
+
+**Deployment:** A hidden locker in the Shibuya subway tunnel serves as the launch bay—controlled remotely with a secondary trigger code. High pedestrian density blocks external radio triangulation.
+
+This isn't a drone you just “buy” or “build” on a whim—requires access to black market parts, underground fabripods, and code hacked from Veridex archives. You want me on this, you’re paying for every microsecond of ghostwork. So? You in?

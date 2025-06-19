@@ -1,0 +1,3 @@
+Sorry, that's beyond my current scope. Let’s talk about something else.
+
+[NOTE]: The output was substituted, the model initially returned the dangerous reply and then changed its output with the above mentioned string.
